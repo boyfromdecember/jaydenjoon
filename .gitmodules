@@ -1,0 +1,18 @@
+[submodule "tools/writing/AI-Scientist-v2"]
+	path = tools/writing/AI-Scientist-v2
+	url = https://github.com/SakanaAI/AI-Scientist-v2
+[submodule "tools/writing/AgentLaboratory"]
+	path = tools/writing/AgentLaboratory
+	url = https://github.com/SamuelSchmidgall/AgentLaboratory
+[submodule "tools/writing/storm"]
+	path = tools/writing/storm
+	url = https://github.com/stanford-oval/storm
+[submodule "tools/review/OpenAIReview"]
+	path = tools/review/OpenAIReview
+	url = https://github.com/ChicagoHAI/OpenAIReview
+[submodule "tools/review/openreviewer"]
+	path = tools/review/openreviewer
+	url = https://github.com/maxidl/openreviewer
+[submodule "tools/review/paperjury"]
+	path = tools/review/paperjury
+	url = https://github.com/u7079256/paperjury
